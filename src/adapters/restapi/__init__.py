@@ -1,0 +1,1 @@
+from .litestar import web_app
